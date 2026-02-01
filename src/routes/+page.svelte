@@ -44,7 +44,7 @@
 </script>
 
 <svelte:head>
-  <title>ArrAI - AI-Driven Drug Discovery</title>
+  <title>ArrAI</title>
 </svelte:head>
 
 <Header />
